@@ -1,0 +1,27 @@
+{
+    "name": "armezit/yii2-bootstrap4-rtl",
+    "description": "The Twitter Bootstrap v4 RTL extension for the Yii 2.0 framework",
+    "keywords": ["yii2", "bootstrap", "bootstrap4", "rtl"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/armezit/yii2-bootstrap4-rtl/issues",
+        "source": "https://github.com/armezit/yii2-bootstrap4-rtl"
+    },
+    "authors": [
+        {
+            "name": "Armin Rezayati",
+            "email": "armin.rezayati@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "npm-asset/bootstrap": "4.4.*",
+        "npm-asset/bootstrap-v4-rtl": "4.4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "armezit\\yii2\\": ""
+        }
+    }
+}
