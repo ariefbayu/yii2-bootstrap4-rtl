@@ -16,8 +16,8 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "npm-asset/bootstrap": "4.4.*",
-        "npm-asset/bootstrap-v4-rtl": "4.4.*"
+        "npm-asset/bootstrap": "4.6.*",
+        "npm-asset/bootstrap-v4-rtl": "4.6.*"
     },
     "autoload": {
         "psr-4": {
