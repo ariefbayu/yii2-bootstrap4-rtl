@@ -1,12 +1,12 @@
 <?php
-namespace armezit\yii2;
+namespace ariefbayu\yii2;
 
 use yii\web\AssetBundle;
 
 /**
  * Asset bundle for the Twitter bootstrap v4 Rtl css files.
  *
- * @author Armin Rezayati <armin.rezayati@gmail.com>
+ * @author ariefbayu <ariefbayu@gmail.com>
  */
 class BootstrapRtlAsset extends AssetBundle
 {
