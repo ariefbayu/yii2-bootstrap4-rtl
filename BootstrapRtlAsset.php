@@ -4,7 +4,7 @@ namespace ariefbayu\yii2;
 use yii\web\AssetBundle;
 
 /**
- * Asset bundle for the Twitter bootstrap v4 Rtl css files.
+ * Asset bundle for the Twitter bootstrap v4 Rtl css files
  *
  * @author ariefbayu <ariefbayu@gmail.com>
  */
